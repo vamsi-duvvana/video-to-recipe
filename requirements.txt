@@ -3,3 +3,4 @@ phidata
 openai
 google-generativeai
 duckduckgo-search
+dotenv
